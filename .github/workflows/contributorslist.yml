@@ -34,7 +34,7 @@ jobs:
   contributors:
     runs-on: ubuntu-latest
     steps:
-      - uses: wow-actions/contributors-list@v1
+      - uses: MehdiGol/contributors-list
         with:
           GITHUB_TOKEN: ${{ secrets.TOKEN_GITHUB }}
           svgPath: CONTRIBUTORS.svg
