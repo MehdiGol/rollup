@@ -255,21 +255,14 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 75.0; height: 75.0">
-        <a href=https://github.com/MehdiGol>
-            <img src=https://avatars.githubusercontent.com/u/13794949?v=4 width="50;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Mehdi Golzadeh/>
-            <br />
-            <sub style="font-size:12px"><b>Mehdi Golzadeh</b></sub>
-        </a>
-    </td>
-</tr>
-<tr>
-    <td align="center" style="word-wrap: break-word; width: 75.0; height: 75.0">
         <a href=https://github.com/dnalborczyk>
             <img src=https://avatars.githubusercontent.com/u/2903325?v=4 width="50;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=dnalborczyk/>
             <br />
             <sub style="font-size:12px"><b>dnalborczyk</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 75.0; height: 75.0">
         <a href=https://github.com/shellscape>
             <img src=https://avatars.githubusercontent.com/u/76371?v=4 width="50;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Andrew Powell/>
@@ -305,8 +298,6 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
             <sub style="font-size:12px"><b>Vladimir Agafonkin</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 75.0; height: 75.0">
         <a href=https://github.com/LongTengDao>
             <img src=https://avatars.githubusercontent.com/u/26104024?v=4 width="50;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=龙腾道/>
@@ -314,6 +305,8 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
             <sub style="font-size:12px"><b>龙腾道</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 75.0; height: 75.0">
         <a href=https://github.com/marijnh>
             <img src=https://avatars.githubusercontent.com/u/144427?v=4 width="50;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Marijn Haverbeke/>
@@ -349,8 +342,6 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
             <sub style="font-size:12px"><b>Arpad Borsos</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 75.0; height: 75.0">
         <a href=https://github.com/monkeywithacupcake>
             <img src=https://avatars.githubusercontent.com/u/7316730?v=4 width="50;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=jess/>
@@ -358,6 +349,8 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
             <sub style="font-size:12px"><b>jess</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 75.0; height: 75.0">
         <a href=https://github.com/lukeapage>
             <img src=https://avatars.githubusercontent.com/u/309321?v=4 width="50;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Luke Page/>
@@ -393,8 +386,6 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
             <sub style="font-size:12px"><b>Anand Thakker</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 75.0; height: 75.0">
         <a href=https://github.com/emilos>
             <img src=https://avatars.githubusercontent.com/u/2088208?v=4 width="50;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Emil Ajdyna/>
@@ -402,6 +393,8 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
             <sub style="font-size:12px"><b>Emil Ajdyna</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 75.0; height: 75.0">
         <a href=https://github.com/jakearchibald>
             <img src=https://avatars.githubusercontent.com/u/93594?v=4 width="50;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Jake Archibald/>
@@ -437,8 +430,6 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
             <sub style="font-size:12px"><b>Arnaud Ceccaldi</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 75.0; height: 75.0">
         <a href=https://github.com/fatfisz>
             <img src=https://avatars.githubusercontent.com/u/6004414?v=4 width="50;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=fatfisz/>
@@ -446,6 +437,8 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
             <sub style="font-size:12px"><b>fatfisz</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 75.0; height: 75.0">
         <a href=https://github.com/curran>
             <img src=https://avatars.githubusercontent.com/u/68416?v=4 width="50;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Curran Kelleher/>
@@ -481,8 +474,6 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
             <sub style="font-size:12px"><b>James Yang</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 75.0; height: 75.0">
         <a href=https://github.com/evs-chris>
             <img src=https://avatars.githubusercontent.com/u/161978?v=4 width="50;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Chris Reeves/>
@@ -490,6 +481,8 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
             <sub style="font-size:12px"><b>Chris Reeves</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 75.0; height: 75.0">
         <a href=https://github.com/christopherthielen>
             <img src=https://avatars.githubusercontent.com/u/2053478?v=4 width="50;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Chris Thielen/>
@@ -525,8 +518,6 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
             <sub style="font-size:12px"><b>Patrick McGuckin</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 75.0; height: 75.0">
         <a href=https://github.com/vanruesc>
             <img src=https://avatars.githubusercontent.com/u/9214917?v=4 width="50;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Raoul v. R./>
@@ -534,6 +525,8 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
             <sub style="font-size:12px"><b>Raoul v. R.</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 75.0; height: 75.0">
         <a href=https://github.com/stasm>
             <img src=https://avatars.githubusercontent.com/u/265818?v=4 width="50;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Stanisław Małolepszy/>
@@ -569,8 +562,6 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
             <sub style="font-size:12px"><b>Daniel K.</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 75.0; height: 75.0">
         <a href=https://github.com/intrnl>
             <img src=https://avatars.githubusercontent.com/u/20620901?v=4 width="50;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Prana Adiwira/>
@@ -578,6 +569,8 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
             <sub style="font-size:12px"><b>Prana Adiwira</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 75.0; height: 75.0">
         <a href=https://github.com/aearly>
             <img src=https://avatars.githubusercontent.com/u/558190?v=4 width="50;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Alex Early/>
@@ -613,8 +606,6 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
             <sub style="font-size:12px"><b>Cameron Martin</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 75.0; height: 75.0">
         <a href=https://github.com/cprecioso>
             <img src=https://avatars.githubusercontent.com/u/511681?v=4 width="50;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Carlos Precioso/>
@@ -622,6 +613,8 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
             <sub style="font-size:12px"><b>Carlos Precioso</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 75.0; height: 75.0">
         <a href=https://github.com/danez>
             <img src=https://avatars.githubusercontent.com/u/231804?v=4 width="50;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Daniel Tschinder/>
@@ -657,8 +650,6 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
             <sub style="font-size:12px"><b>Iván Sánchez Ortega</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 75.0; height: 75.0">
         <a href=https://github.com/jacksonrayhamilton>
             <img src=https://avatars.githubusercontent.com/u/5356588?v=4 width="50;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Jackson Ray Hamilton/>
@@ -666,6 +657,8 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
             <sub style="font-size:12px"><b>Jackson Ray Hamilton</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 75.0; height: 75.0">
         <a href=https://github.com/bitjson>
             <img src=https://avatars.githubusercontent.com/u/904007?v=4 width="50;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Jason Dreyzehner/>
@@ -701,8 +694,6 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
             <sub style="font-size:12px"><b>Luke Edwards</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 75.0; height: 75.0">
         <a href=https://github.com/chyzwar>
             <img src=https://avatars.githubusercontent.com/u/5990767?v=4 width="50;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Marcin K/>
@@ -710,6 +701,8 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
             <sub style="font-size:12px"><b>Marcin K</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 75.0; height: 75.0">
         <a href=https://github.com/schummar>
             <img src=https://avatars.githubusercontent.com/u/2988557?v=4 width="50;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Marco Schumacher/>
@@ -722,6 +715,13 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
             <img src=https://avatars.githubusercontent.com/u/649348?v=4 width="50;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Mattias Buelens/>
             <br />
             <sub style="font-size:12px"><b>Mattias Buelens</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 75.0; height: 75.0">
+        <a href=https://github.com/MehdiGol>
+            <img src=https://avatars.githubusercontent.com/u/13794949?v=4 width="50;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Mehdi Golzadeh/>
+            <br />
+            <sub style="font-size:12px"><b>Mehdi Golzadeh</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 75.0; height: 75.0">
