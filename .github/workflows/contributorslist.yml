@@ -5,7 +5,7 @@ on:
       - master
 jobs:
   contributors:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     steps:
       - uses: wow-actions/contributors-list@v1
         with:
