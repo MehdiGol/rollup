@@ -5,12 +5,12 @@ on:
       - master
 jobs:
   contributors:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
       - uses: wow-actions/contributors-list@v1
         with:
           GITHUB_TOKEN: ${{ secrets.TOKEN_GITHUB }}
-          includeBots: false
+          includeBots: true
           svgTemplate: |
             <svg
               xmlns="http://www.w3.org/2000/svg"
