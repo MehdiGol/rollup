@@ -10,5 +10,4 @@ jobs:
       - uses: wow-actions/contributors-list@v1
         with:
           GITHUB_TOKEN: ${{ secrets.TOKEN_GITHUB }}
-          includeBots: true
-          svgPath: CONTRIBUTORS.svg
+          round: true
